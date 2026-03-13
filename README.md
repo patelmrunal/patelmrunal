@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Mrunal Patel<br>🎓 Currently studying Computer Engineering (Final Year)<br>🤖 Learning & exploring AI Engineering, GenAI, RAG systems, and intelligent applications<br>💻 Passionate about coding and open-source<br>🌱 Continuously improving my skills in Python, AI/ML, NLP, and backend development
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__man2274) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrunallpatel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelmrunal7373@gmail.com) 
